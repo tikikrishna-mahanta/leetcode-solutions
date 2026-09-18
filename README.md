@@ -70,4 +70,8 @@
 |  |
 | ------- |
 | [2833-furthest-point-from-origin](https://github.com/tikikrishna-mahanta/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/tikikrishna-mahanta/leetcode-solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
