@@ -14,6 +14,7 @@
 | [0005-longest-palindromic-substring](https://github.com/tikikrishna-mahanta/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/tikikrishna-mahanta/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/tikikrishna-mahanta/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2833-furthest-point-from-origin](https://github.com/tikikrishna-mahanta/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 ## Array
 |  |
 | ------- |
@@ -65,4 +66,8 @@
 |  |
 | ------- |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/tikikrishna-mahanta/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+## Counting
+|  |
+| ------- |
+| [2833-furthest-point-from-origin](https://github.com/tikikrishna-mahanta/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 <!---LeetCode Topics End-->
