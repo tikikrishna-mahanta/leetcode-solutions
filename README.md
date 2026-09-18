@@ -13,6 +13,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/tikikrishna-mahanta/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/tikikrishna-mahanta/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/tikikrishna-mahanta/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/tikikrishna-mahanta/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Array
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/tikikrishna-mahanta/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tikikrishna-mahanta/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/tikikrishna-mahanta/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Linked List
 |  |
 | ------- |
@@ -55,4 +57,12 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tikikrishna-mahanta/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+## Greedy
+|  |
+| ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/tikikrishna-mahanta/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+## Sorting
+|  |
+| ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/tikikrishna-mahanta/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 <!---LeetCode Topics End-->
