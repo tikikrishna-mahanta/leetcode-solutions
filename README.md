@@ -7,6 +7,7 @@
 | [0002-add-two-numbers](https://github.com/tikikrishna-mahanta/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/tikikrishna-mahanta/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/tikikrishna-mahanta/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/tikikrishna-mahanta/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## String
 |  |
 | ------- |
@@ -74,4 +75,8 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/tikikrishna-mahanta/leetcode-solutions/tree/master/0175-combine-two-tables) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/tikikrishna-mahanta/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
